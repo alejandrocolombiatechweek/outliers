@@ -1,0 +1,139 @@
+{
+  "id": "default-form",
+  "title": "Welcome to the top 100 startup LATAM outliers",
+  "description": "We are delighted to invite you to this exclusive club in which you will have granted access to the most relevant events of our week, connections with corporations and VCs, and other remarkable founders transforming entire industries as you are.",
+  "fields": [
+    {
+      "id": "field-1746792595081-886",
+      "type": "text",
+      "label": "Name of your company",
+      "placeholder": "Enter value here",
+      "required": true
+    },
+    {
+      "id": "field-1746792608181-172",
+      "type": "text",
+      "label": "Website",
+      "placeholder": "Enter value here",
+      "required": false
+    },
+    {
+      "id": "field-1746792626082-631",
+      "type": "checkbox",
+      "label": "Headquarters",
+      "placeholder": "Enter value here",
+      "required": false,
+      "options": [
+        "🇨🇴 ",
+        "🇦🇷 ",
+        "🇧🇴 ",
+        "🇧🇷 ",
+        "🇨🇱 ",
+        "🇨🇷 ",
+        "🇨🇺 ",
+        "🇩🇴 ",
+        "🇪🇨 ",
+        "🇸🇻 ",
+        "🇬🇹 ",
+        "🇭🇳 ",
+        "🇲🇽 ",
+        "🇳🇮 ",
+        "🇵🇦 ",
+        "🇵🇾 ",
+        "🇵🇪 ",
+        "🇺🇾 ",
+        "🇻🇪",
+        "🇺🇸",
+        "Europe",
+        "Asia",
+        "Africa",
+        "Rest of World"
+      ],
+      "defaultValue": []
+    },
+    {
+      "id": "field-1746792728516-133",
+      "type": "text",
+      "label": "How much money have you raised?",
+      "placeholder": "Enter value here",
+      "required": true
+    },
+    {
+      "id": "field-1746792761183-371",
+      "type": "text",
+      "label": "Would you be so kind to place your awesome LinkedIn profile?",
+      "placeholder": "Enter value here",
+      "required": true
+    },
+    {
+      "id": "field-1746792761800-603",
+      "type": "text",
+      "label": "And the LinkedIn of one of your cofounders, please",
+      "placeholder": "Enter value here",
+      "required": true
+    },
+    {
+      "id": "field-1746792777583-633",
+      "type": "checkbox",
+      "label": "Which industry are you transforming?",
+      "placeholder": "Enter value here",
+      "required": false,
+      "options": [
+        "Fintech",
+        "Healthtech",
+        "Edtech",
+        "Agtech ",
+        "Proptech",
+        "Ecommerce",
+        "Logistics",
+        "Artificial Ingelligence",
+        "Mobility",
+        " Energy & Sustainability"
+      ],
+      "defaultValue": []
+    },
+    {
+      "id": "field-1746792907339-859",
+      "type": "checkbox",
+      "label": "How can we add value to you and your company during Colombia Tech Week 2025?",
+      "placeholder": "Enter value here",
+      "required": true,
+      "options": [
+        "By introducing investors",
+        "By introducing corporations",
+        "I would love a speaking slot"
+      ],
+      "defaultValue": []
+    },
+    {
+      "id": "field-1746794187072-784",
+      "type": "select",
+      "label": "Are you currently fundraising?",
+      "placeholder": "Enter value here",
+      "required": true,
+      "options": [
+        "Yes",
+        "No",
+        "No, but I am planning soon"
+      ]
+    },
+    {
+      "id": "field-1746794312638-61",
+      "type": "select",
+      "label": "This year we are making a massive efforts of tightening bonds with 🇦🇪. Have you ever explored the possibility of expanding to the Emirates?",
+      "placeholder": "Enter value here",
+      "required": true,
+      "options": [
+        "Yes",
+        "No",
+        "Not currently, but in the future"
+      ]
+    }
+  ],
+  "submitButtonText": "Submit",
+  "theme": {
+    "primaryColor": "#ff9e38",
+    "backgroundColor": "#96e631",
+    "textColor": "#ffffff"
+  }
+}
